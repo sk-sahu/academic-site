@@ -13,10 +13,10 @@ baseurl = "/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = ""
+copyright = " &copy 2019 Sangram Keshari Sahu"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-104224512-3"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
