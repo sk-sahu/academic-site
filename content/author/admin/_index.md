@@ -19,7 +19,7 @@ organizations = [ { name = "IISER Mohali", url = "" } ]
 bio = "My research interests include Genomics and Systems Biology."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "sangramsahu15@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
@@ -52,7 +52,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "#contact"  # For a direct email link, use "mailto:sangramk@iisermohali.ac.in".
 
 [[social]]
   icon = "twitter"
