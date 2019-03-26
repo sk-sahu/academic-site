@@ -15,8 +15,6 @@
   - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
   - [Wear the T-shirt](https://academic.threadless.com/)
 
-[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
-
 ## Install
 
 You can choose from one of the following four methods to install:
