@@ -16,7 +16,7 @@ role = "Computational Biologist"
 organizations = [ { name = "IISER Mohali", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include Genomics and Systems Biology."
+bio = "My research interests include Genomics and Bioinformatics."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "sangramsahu15@gmail.com"
