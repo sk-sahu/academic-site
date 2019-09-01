@@ -12,7 +12,7 @@ day_night = true
 font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "SKsahu Academic"
+description = "Sangram Kesahri Sahu's Academic Profile"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = "static/img/sksahu_dot_net.png"
@@ -85,7 +85,7 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 1
+map = 3
 map_api_key = ""
 latitude = "30.6649526"
 longitude = "76.7300421"

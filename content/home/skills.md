@@ -31,11 +31,5 @@ subtitle = ""
   icon_pack = "fab"
   name = "R"
   description = "90%"
-  
-[[feature]]
-  icon = "chalkboard-teacher"
-  icon_pack = "fab"
-  name = "Teaching"
-  description = "70%"
 
 +++

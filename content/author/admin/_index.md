@@ -62,7 +62,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.com"
+  link = "https://scholar.google.com/citations?user=Eb9LniEAAAAJ&hl=en"
 
 [[social]]
   icon = "github"
@@ -71,11 +71,11 @@ user_groups = ["Researchers", "Visitors"]
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "files/cv.pdf"
+[[social]]
+  icon = "cv"
+  icon_pack = "ai"
+  link = "https://sksahu.net/CV/index.html"
 
 +++
 
-Sangram is a Computational Biologist by training and Currently a Junior Research fellow at IISER Mohali.
+I am a Computational Biologist by training and Currently a Junior Research fellow at IISER Mohali. Research interest in High-Throughput Genomics and Bioinformatics application development.
